@@ -55,3 +55,7 @@ services:
     environment:
       - PRELOAD=false
       - CLI_ARGS=
+# docker compose --profile download up --build
+# # wait until its done, then:
+# docker compose --profile auto up --build
+# # where [ui] is one of: auto | auto-cpu | hlky
