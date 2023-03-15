@@ -1,2 +1,4 @@
 /.devcontainer
 /docker-compose.override.yml
+docker-compose.yml
+cmd
